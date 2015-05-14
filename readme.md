@@ -7,7 +7,11 @@
     npm install
 ```
 
-## Compiling and building
+## Update informations ##
+
+    Don't forget to modify the relevant informations in the package.json file (module name, description, keywords, authors... )
+
+## Compiling and building ##
 
 This project uses babel to compile es6 code to es5 code and tape library to test the module
 
