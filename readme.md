@@ -2,14 +2,19 @@
 
 ## Installation ##
 
+
+
+
 ```bash
     git clone https://github.com/RoanixS2k12/es6-npm-module.git
     npm install
 ```
 
+
+
 ## Update informations ##
 
-    Don't forget to modify the relevant informations in the package.json file (module name, description, keywords, authors... )
+Don't forget to modify the relevant informations in the package.json file (module name, description, keywords, authors... )
 
 ## Compiling and building ##
 
