@@ -20,6 +20,8 @@ Don't forget to modify the relevant informations in the package.json file (modul
 
 This project uses babel to compile es6 code to es5 code and tape library to test the module
 
+
+
 ```bash
     npm run dev         # watch files and compiles them
     npm run compile     # compile the module
