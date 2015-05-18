@@ -18,7 +18,8 @@
         "module"
     ],
     "author": {
-        "name" : "Joani COUMA"
+        "name" : "Joani COUMA",
+        "email" : "joani@21communication.com"
     },
     "license": "ISC",
     "devDependencies": {
